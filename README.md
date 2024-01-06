@@ -3,6 +3,6 @@
 
 Датасет: [bfeed](https://github.com/elizapotato/EDA_bfeed/blob/main/bfeed.csv)
 
-Описание датасета: https://vincentarelbundock.github.io/Rdatasets/doc/KMsurv/bfeed.html
+Описание данных: https://vincentarelbundock.github.io/Rdatasets/doc/KMsurv/bfeed.html
 
 Книга, описывающая исследование: https://sistemas.fciencias.unam.mx/~ediaz/Cursos/Estadistica3/Libros/0a9X.pdf
